@@ -1,0 +1,4 @@
+# Python dependencies
+Flask==2.0.3
+Flask-Cors==3.0.10
+boto3==1.18.67  # For AWS services
